@@ -1,0 +1,17 @@
+.test {
+  .inputWrapper {
+    display: flex;
+    .input {
+      width: 80px;
+      text-align: center;
+    }
+    .btn {
+      margin-left: 10px;
+    }
+  }
+  .number {
+    font-size: 30px;
+    letter-spacing: 6px;
+    word-break: break-word;
+  }
+}

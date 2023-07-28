@@ -8,7 +8,8 @@ const Main: FC = () => {
   return (
     <div className={styles.main}>
       主页
-      <button onClick={() => navigate('/memory')}> 登录 </button>
+      <button onClick={() => navigate('/memory')}> 卡片1 </button>
+      <button onClick={() => navigate('/digit')}> 卡片2 </button>
     </div>
   );
 };

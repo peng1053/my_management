@@ -1,0 +1,36 @@
+.memory {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 500px;
+  .numbLeft {
+    background-color: #888;
+    width: 220px;
+    height: 100%;
+    margin: 10px 0;
+    overflow: scroll;
+    border-radius: 6px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .numbright {
+    width: 400px;
+  }
+  .block {
+    width: 20%;
+    .numb {
+      background-color: aliceblue;
+      margin: 1px;
+      text-align: center;
+      line-height: 40px;
+      cursor: pointer;
+      &:hover {
+        color: blue;
+      }
+      &.active {
+        background-color: rgba(53, 139, 227, 1);
+        color: #fff;
+      }
+    }
+  }
+}

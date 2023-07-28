@@ -1,0 +1,882 @@
+[
+  {
+    "number": "0",
+    "code": "呼啦圈",
+    "codeType": 1,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "1",
+    "code": "蜡烛",
+    "codeType": 1,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "2",
+    "code": "鹅",
+    "codeType": 1,
+    "evolve": "小冯",
+    "note": "海贼里穿天鹅芭蕾舞衣服的小冯",
+    "other": ""
+  },
+  {
+    "number": "3",
+    "code": "耳朵",
+    "codeType": 1,
+    "evolve": "图图",
+    "note": "大耳朵图图",
+    "other": "弹簧"
+  },
+  {
+    "number": "4",
+    "code": "帆船",
+    "codeType": 1,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "5",
+    "code": "钩子",
+    "codeType": 1,
+    "evolve": "铁钩船长",
+    "note": "手臂是个大大的钩子",
+    "other": ""
+  },
+  {
+    "number": "6",
+    "code": "勺子",
+    "codeType": 1,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "7",
+    "code": "拐杖",
+    "codeType": 1,
+    "evolve": "佘太君",
+    "note": "龙头拐杖",
+    "other": "镰刀"
+  },
+  {
+    "number": "8",
+    "code": "葫芦",
+    "codeType": 1,
+    "evolve": "葫芦娃",
+    "note": "",
+    "other": "眼镜"
+  },
+  {
+    "number": "9",
+    "code": "喷头",
+    "codeType": 1,
+    "evolve": "",
+    "note": "淋浴喷头",
+    "other": "哨子"
+  },
+  {
+    "number": "00",
+    "code": "望远镜",
+    "codeType": 1,
+    "evolve": "",
+    "note": "",
+    "other": "链条"
+  },
+  {
+    "number": "01",
+    "code": "小树",
+    "codeType": 1,
+    "evolve": "",
+    "note": "",
+    "other": "鱼"
+  },
+  {
+    "number": "02",
+    "code": "铃儿",
+    "codeType": 2,
+    "evolve": "灵儿",
+    "note": "仙剑1女主",
+    "other": "铃铛"
+  },
+  {
+    "number": "03",
+    "code": "三角凳",
+    "codeType": 3,
+    "evolve": "",
+    "note": "0是平面，下面三条腿",
+    "other": ""
+  },
+  {
+    "number": "04",
+    "code": "轿车",
+    "codeType": 3,
+    "evolve": "奥迪",
+    "note": "0位车体，左右四个轮子；奥迪(车标4个圈)",
+    "other": ""
+  },
+  {
+    "number": "05",
+    "code": "手套/领舞",
+    "codeType": 1,
+    "evolve": "迈克尔杰克逊",
+    "note": "迈克尔杰克逊跳舞带着手套跳舞",
+    "other": "手套"
+  },
+  {
+    "number": "06",
+    "code": "左轮手枪",
+    "codeType": 3,
+    "evolve": "西部牛仔",
+    "note": "0想象成轮子，6发子弹",
+    "other": ""
+  },
+  {
+    "number": "07",
+    "code": "锄头",
+    "codeType": 1,
+    "evolve": "",
+    "note": "",
+    "other": "镰刀"
+  },
+  {
+    "number": "08",
+    "code": "溜冰鞋",
+    "codeType": 3,
+    "evolve": "",
+    "note": "有8个轮子",
+    "other": ""
+  },
+  {
+    "number": "09",
+    "code": "猫",
+    "codeType": 3,
+    "evolve": "加菲猫",
+    "note": "猫有九条命",
+    "other": ""
+  },
+  {
+    "number": "10",
+    "code": "棒球",
+    "codeType": 1,
+    "evolve": "",
+    "note": "球棒(1)和球(0)",
+    "other": ""
+  },
+  {
+    "number": "11",
+    "code": "筷子",
+    "codeType": 1,
+    "evolve": "肖央",
+    "note": "筷子兄弟",
+    "other": "梯子"
+  },
+  {
+    "number": "12",
+    "code": "椅儿",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "13",
+    "code": "医生",
+    "codeType": 2,
+    "evolve": "乔巴",
+    "note": "海贼草帽团的船医",
+    "other": ""
+  },
+  {
+    "number": "14",
+    "code": "钥匙",
+    "codeType": 2,
+    "evolve": "索拉",
+    "note": "王国之心主角，手拿一把钥匙刃",
+    "other": ""
+  },
+  {
+    "number": "15",
+    "code": "鹦鹉",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "16",
+    "code": "石榴",
+    "codeType": 2,
+    "evolve": "石榴姐",
+    "note": "唐伯虎点秋香的石榴姐",
+    "other": ""
+  },
+  {
+    "number": "17",
+    "code": "仪器",
+    "codeType": 2,
+    "evolve": "放大镜",
+    "note": "显微镜、放大镜",
+    "other": ""
+  },
+  {
+    "number": "18",
+    "code": "糖葫芦",
+    "codeType": 1,
+    "evolve": "",
+    "note": "",
+    "other": "腰包"
+  },
+  {
+    "number": "19",
+    "code": "衣钩",
+    "codeType": 2,
+    "evolve": "",
+    "note": "一九",
+    "other": "药酒"
+  },
+  {
+    "number": "20",
+    "code": "香烟",
+    "codeType": 3,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "21",
+    "code": "鳄鱼",
+    "codeType": 2,
+    "evolve": "",
+    "note": "二一",
+    "other": ""
+  },
+  {
+    "number": "22",
+    "code": "双胞胎",
+    "codeType": 1,
+    "evolve": "海尔兄弟",
+    "note": "双胞胎兄弟",
+    "other": ""
+  },
+  {
+    "number": "23",
+    "code": "和尚",
+    "codeType": 2,
+    "evolve": "济公",
+    "note": "二僧二僧，两个和尚，济公和广亮",
+    "other": "耳塞、一休"
+  },
+  {
+    "number": "24",
+    "code": "闹钟",
+    "codeType": 3,
+    "evolve": "",
+    "note": "",
+    "other": "时钟"
+  },
+  {
+    "number": "25",
+    "code": "二胡",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "26",
+    "code": "河流",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "27",
+    "code": "耳机",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "28",
+    "code": "恶霸",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "29",
+    "code": "饿囚",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": "二舅"
+  },
+  {
+    "number": "30",
+    "code": "三轮车",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "31",
+    "code": "鲨鱼",
+    "codeType": 2,
+    "evolve": "鲨鱼辣椒",
+    "note": "铁甲小宝里的反派人物",
+    "other": ""
+  },
+  {
+    "number": "32",
+    "code": "扇儿",
+    "codeType": 2,
+    "evolve": "诸葛亮",
+    "note": "诸葛亮的扇子",
+    "other": ""
+  },
+  {
+    "number": "33",
+    "code": "闪闪的",
+    "codeType": 2,
+    "evolve": "人猿泰山",
+    "note": "一闪一闪亮晶晶",
+    "other": "闪闪的钻石"
+  },
+  {
+    "number": "34",
+    "code": "三丝",
+    "codeType": 2,
+    "evolve": "",
+    "note": "三条丝巾",
+    "other": ""
+  },
+  {
+    "number": "35",
+    "code": "山虎",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": "珊瑚"
+  },
+  {
+    "number": "36",
+    "code": "山鹿",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "37",
+    "code": "山鸡",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "38",
+    "code": "妇女",
+    "codeType": 3,
+    "evolve": "围裙妈妈",
+    "note": "围裙妈妈",
+    "other": ""
+  },
+  {
+    "number": "39",
+    "code": "山丘",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": "三角板"
+  },
+  {
+    "number": "40",
+    "code": "司令",
+    "codeType": 2,
+    "evolve": "朱德",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "41",
+    "code": "蜥蜴",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": "死鱼、司仪"
+  },
+  {
+    "number": "42",
+    "code": "柿儿",
+    "codeType": 2,
+    "evolve": "柿子",
+    "note": "",
+    "other": "西红柿"
+  },
+  {
+    "number": "43",
+    "code": "石山",
+    "codeType": 2,
+    "evolve": "玛尼堆",
+    "note": "石头山 -> 玛尼堆，西藏一种祈福",
+    "other": "死神"
+  },
+  {
+    "number": "44",
+    "code": "蛇",
+    "codeType": 3,
+    "evolve": "白素贞",
+    "note": "si si",
+    "other": ""
+  },
+  {
+    "number": "45",
+    "code": "师傅",
+    "codeType": 2,
+    "evolve": "唐僧",
+    "note": "四五四五师傅师傅",
+    "other": ""
+  },
+  {
+    "number": "46",
+    "code": "饲料",
+    "codeType": 2,
+    "evolve": "",
+    "note": "猪猫狗饲料",
+    "other": "死牛"
+  },
+  {
+    "number": "47",
+    "code": "司机",
+    "codeType": 2,
+    "evolve": "蝙蝠侠",
+    "note": "经典蝙蝠车，老司机了",
+    "other": "杀手47"
+  },
+  {
+    "number": "48",
+    "code": "石板",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": "扫把"
+  },
+  {
+    "number": "49",
+    "code": "湿狗",
+    "codeType": 2,
+    "evolve": "大金毛",
+    "note": "湿身的大金毛。 甩水",
+    "other": ""
+  },
+  {
+    "number": "50",
+    "code": "武林",
+    "codeType": 2,
+    "evolve": "李小龙",
+    "note": "成龙、杨过",
+    "other": ""
+  },
+  {
+    "number": "51",
+    "code": "劳动节",
+    "codeType": 3,
+    "evolve": "工人",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "52",
+    "code": "鼓儿",
+    "codeType": 2,
+    "evolve": "拨浪鼓",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "53",
+    "code": "乌纱帽",
+    "codeType": 2,
+    "evolve": "刘墉",
+    "note": "刘墉的乌纱帽总是摘来摘去的",
+    "other": ""
+  },
+  {
+    "number": "54",
+    "code": "武士/青年节",
+    "codeType": 2,
+    "evolve": "银时",
+    "note": "《银魂》主角坂田银时(白夜叉)，青年，坚守武士道",
+    "other": "巫师"
+  },
+  {
+    "number": "55",
+    "code": "火车",
+    "codeType": 3,
+    "evolve": "托马斯",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "56",
+    "code": "蜗牛",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "57",
+    "code": "武器",
+    "codeType": 2,
+    "evolve": "加特林",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "58",
+    "code": "尾巴",
+    "codeType": 2,
+    "evolve": "鸣人",
+    "note": "《火影忍者》主角漩涡鸣人，九尾",
+    "other": ""
+  },
+  {
+    "number": "59",
+    "code": "蜈蚣",
+    "codeType": 2,
+    "evolve": "金木研",
+    "note": "《东京喰种》主角，有蜈蚣形态",
+    "other": "五角星"
+  },
+  {
+    "number": "60",
+    "code": "榴莲",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "61",
+    "code": "儿童",
+    "codeType": 3,
+    "evolve": "小新",
+    "note": "蜡笔小新。首先想到的永远长不大的人物",
+    "other": ""
+  },
+  {
+    "number": "62",
+    "code": "牛儿",
+    "codeType": 2,
+    "evolve": "MT",
+    "note": "我叫MT",
+    "other": ""
+  },
+  {
+    "number": "63",
+    "code": "流沙",
+    "codeType": 2,
+    "evolve": "沙漏",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "64",
+    "code": "螺丝",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "65",
+    "code": "尿壶",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": "绿壶"
+  },
+  {
+    "number": "66",
+    "code": "溜溜球",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": "蝌蚪"
+  },
+  {
+    "number": "67",
+    "code": "油漆",
+    "codeType": 2,
+    "evolve": "",
+    "note": "绿色油漆",
+    "other": "绿漆"
+  },
+  {
+    "number": "68",
+    "code": "喇叭",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "69",
+    "code": "太极",
+    "codeType": 1,
+    "evolve": "张三丰",
+    "note": "电影《倚天屠龙记》里面的张三丰",
+    "other": "太极图"
+  },
+  {
+    "number": "70",
+    "code": "麒麟",
+    "codeType": 2,
+    "evolve": "郭麒麟",
+    "note": "穿大褂说相声",
+    "other": ""
+  },
+  {
+    "number": "71",
+    "code": "鸡翼",
+    "codeType": 2,
+    "evolve": "KFC老爷爷",
+    "note": "炸鸡翅，肯德基炸鸡翅，肯德基的老爷爷",
+    "other": "机翼"
+  },
+  {
+    "number": "72",
+    "code": "企鹅",
+    "codeType": 2,
+    "evolve": "QQ",
+    "note": "腾讯qq",
+    "other": "孙悟空"
+  },
+  {
+    "number": "73",
+    "code": "花旗参",
+    "codeType": 1,
+    "evolve": "",
+    "note": "人参的",
+    "other": ""
+  },
+  {
+    "number": "74",
+    "code": "骑士",
+    "codeType": 2,
+    "evolve": "唐吉坷德",
+    "note": "他是个瘦削的、面带愁容的小贵族。骑上一匹瘦弱的老马“驽骍难得”，找到了一柄生了锈的长矛，戴着破了洞的头盔",
+    "other": ""
+  },
+  {
+    "number": "75",
+    "code": "西服",
+    "codeType": 2,
+    "evolve": "柯南",
+    "note": "柯南穿着一身西服",
+    "other": ""
+  },
+  {
+    "number": "76",
+    "code": "汽油",
+    "codeType": 2,
+    "evolve": "汽油桶",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "77",
+    "code": "机器",
+    "codeType": 2,
+    "evolve": "擎天柱",
+    "note": "机器人：大白，变形金刚 ",
+    "other": ""
+  },
+  {
+    "number": "78",
+    "code": "青蛙",
+    "codeType": 2,
+    "evolve": "青蛙王子",
+    "note": "戴皇冠的青蛙",
+    "other": ""
+  },
+  {
+    "number": "79",
+    "code": "气球",
+    "codeType": 2,
+    "evolve": "卡尔",
+    "note": "《飞屋环游记》主角。白发方脸老头，方眼镜",
+    "other": ""
+  },
+  {
+    "number": "80",
+    "code": "巴黎",
+    "codeType": 2,
+    "evolve": "巴黎铁塔",
+    "note": "巴黎有名的",
+    "other": ""
+  },
+  {
+    "number": "81",
+    "code": "白蚁",
+    "codeType": 2,
+    "evolve": "白蚁",
+    "note": "一群白蚁，密密麻麻的可怕的那种",
+    "other": "军人建军节"
+  },
+  {
+    "number": "82",
+    "code": "靶儿",
+    "codeType": 2,
+    "evolve": "",
+    "note": "",
+    "other": ""
+  },
+  {
+    "number": "83",
+    "code": "芭蕉扇",
+    "codeType": 2,
+    "evolve": "铁扇公主",
+    "note": "铁扇公主有芭蕉扇",
+    "other": ""
+  },
+  {
+    "number": "84",
+    "code": "巴士",
+    "codeType": 2,
+    "evolve": "龙猫巴士",
+    "note": "有12只脚，夜间行驶时双眼会发光（功能和车灯差不多），额头上会显示目的地，一般人看不见它。行动方式以跳跃和爬行为主，还可以上树、走电线。",
+    "other": ""
+  },
+  {
+    "number": "85",
+    "code": "宝物",
+    "codeType": 2,
+    "evolve": "咕噜",
+    "note": "《指环王》里的咕噜: my precious~。宝物想到魔戒就想到咕噜了",
+    "other": "保姆、白虎"
+  },
+  {
+    "number": "86",
+    "code": "八路军",
+    "codeType": 2,
+    "evolve": "李云龙",
+    "note": "《亮剑》主角",
+    "other": ""
+  },
+  {
+    "number": "87",
+    "code": "白旗",
+    "codeType": 2,
+    "evolve": "日本国旗",
+    "note": "日本国旗白色比较多，方便记忆",
+    "other": ""
+  },
+  {
+    "number": "88",
+    "code": "爸爸",
+    "codeType": 2,
+    "evolve": "小头爸爸",
+    "note": "小头爸爸",
+    "other": ""
+  },
+  {
+    "number": "89",
+    "code": "芭蕉",
+    "codeType": 2,
+    "evolve": "小黄人",
+    "note": "芭蕉联想到黄色小黄人，小黄人爱吃banana~",
+    "other": "白酒"
+  },
+  {
+    "number": "90",
+    "code": "酒瓶",
+    "codeType": 2,
+    "evolve": "茅台",
+    "note": "珍藏几十年的茅台酒瓶",
+    "other": "精灵"
+  },
+  {
+    "number": "91",
+    "code": "球衣",
+    "codeType": 2,
+    "evolve": "足球/小罗",
+    "note": "罗纳尔迪尼奥、巴西黄色秋衣",
+    "other": ""
+  },
+  {
+    "number": "92",
+    "code": "球儿",
+    "codeType": 2,
+    "evolve": "篮球/姚明",
+    "note": "姚明。红色秋衣",
+    "other": ""
+  },
+  {
+    "number": "93",
+    "code": "旧伞",
+    "codeType": 2,
+    "evolve": "油纸伞",
+    "note": "红色油纸伞。因为带年代色彩",
+    "other": "救生圈"
+  },
+  {
+    "number": "94",
+    "code": "救世主",
+    "codeType": 2,
+    "evolve": "耶稣",
+    "note": "",
+    "other": "收拾、教师"
+  },
+  {
+    "number": "95",
+    "code": "酒壶",
+    "codeType": 2,
+    "evolve": "仙剑一酒剑仙",
+    "note": "酒壶就想到酒葫芦，酒葫芦想到仙1酒剑仙喝酒",
+    "other": ""
+  },
+  {
+    "number": "96",
+    "code": "旧炉/酒炉",
+    "codeType": 2,
+    "evolve": "火盆",
+    "note": "火盆可以温酒，火盆也是老一辈的，到现在就会很旧了",
+    "other": "九条牛、蝴蝶"
+  },
+  {
+    "number": "97",
+    "code": "旧旗/香港",
+    "codeType": 2,
+    "evolve": "香港区旗",
+    "note": "97年香港回归，97谐音旧旗",
+    "other": "九旗、酒旗"
+  },
+  {
+    "number": "98",
+    "code": "酒吧",
+    "codeType": 2,
+    "evolve": "红酒酒杯",
+    "note": "联想酒吧里必有的东西",
+    "other": ""
+  },
+  {
+    "number": "99",
+    "code": "舅舅",
+    "codeType": 2,
+    "evolve": "大舅",
+    "note": "",
+    "other": "玫瑰花、乌龟"
+  }
+]

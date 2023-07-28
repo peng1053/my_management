@@ -1,0 +1,26 @@
+.digit {
+  width: 1000px;
+  background: #e1e1e1;
+  border-radius: 6px;
+  min-height: 600px;
+  .btns{
+    position: relative;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ccc;
+    .btn{
+      width: 100px;
+      height: 35px;
+      margin-right: 10px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      cursor: pointer;
+      &.active{
+        background-color:cadetblue;
+        color: #fff;
+      }
+    }
+  }
+  .content{
+    padding: 20px;
+  }
+}
